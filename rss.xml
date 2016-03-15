@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gasandelec-Guildford]]></title>
         <description><![CDATA[gasandelec-Guildford]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gasandelec-guildford/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 20:01:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 20:02:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gasandelec-guildford/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gas and Electricity Testing on 01483 697037 in Guildford - Surrey www.gasandelec.net]]></title>
+            <description><![CDATA[<article><h1>Gas and Electricity Testing on 01483 697037 in Guildford - Surrey www.gasandelec.net</h1><p>GAS SAFE ENGINEERS ELECTRICIANS Safety Testing Checklist Electrical Installation Condition Report - Every 5 Years Portable Appliance Test - Every Year Fire or Smoke Alarm Test - Every Year Fire Risk Assessment - Every Year Emergency Lighting Test - Every Year Gas Safety Test - Every Year Energy Performance Certificate</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/386c347baea72b690b73df0a633f32513fc6f82e.jpg"></article>]]></description>
+            <link>https://vimeo.com/158804852</link>
+            <guid isPermaLink="false">c45c690c-f89b-479b-b38d-cb07cdafe79b</guid>
+            <pubDate>Tue, 15 Mar 2016 20:01:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>GAS SAFE ENGINEERS</p>]]></description>
-            <link>undefinedgas-safe-engineers/index.html</link>
+            <link>https://thegrid.ai/gasandelec-guildford/gas-safe-engineers/index.html</link>
             <guid isPermaLink="false">3bbed95b-8518-4130-a720-9b118a14bdc0</guid>
             <pubDate>Tue, 15 Mar 2016 20:01:01 GMT</pubDate>
         </item>
