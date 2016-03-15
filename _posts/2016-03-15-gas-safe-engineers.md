@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: GAS SAFE ENGINEERS
-datePublished: '2016-03-15T20:01:01.169Z'
-dateModified: '2016-03-15T20:00:53.950Z'
+datePublished: '2016-03-15T20:17:46.026Z'
+dateModified: '2016-03-15T20:17:43.926Z'
 title: ''
 author: []
 authors: []
@@ -202,6 +202,8 @@ BACS PAYMENTS
 
 GAS & ELECTRICITY ENGINEERS - ACCT 17795702 - SORT CODE  600513
 
+[MAKE A PAYMENT HERE][0]
+
 ICO DATA PROTECTION REGISTRATION NUMBER  ZA102868
 
 NATIONWIDE IN THE  UK
@@ -212,8 +214,14 @@ CUSTOMER SERVICES  0845 833 8330 ( Have your Customer Number Ready )
 
 REGISTERED OFFICE -  14 LONDON ROAD - GUILDFORD - SURREY - GU1 1AG
 
-[Sales@gasandelec.com][0]
+[suchticker.de][1]  
+[Tweet][2]
+
+[Sales@gasandelec.com][3]
 
 www.gasandelec.net
 
-[0]: http://gasandelectricityengineers.co.uk/bristol_19.html
+[0]: https://plasso.co/sales@gasandelec.com
+[1]: http://www.suchticker.de/seo-schnelltest.php "SEO Suchmaschinen Optimierung"
+[2]: https://twitter.com/share
+[3]: http://gasandelectricityengineers.co.uk/bristol_19.html
